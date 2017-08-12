@@ -57,9 +57,3 @@ Com a implementação do projeto, são esperados:
  - Maior conhecimento sobre o assunto através de atividades práticas
  - Implementação de ações de assistência social aos estudantes carentes o que possibilitará a permanência dos mesmos nos cursos em que estão matriculados
  - Iniciação científica dos estudantes envolvidos
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
